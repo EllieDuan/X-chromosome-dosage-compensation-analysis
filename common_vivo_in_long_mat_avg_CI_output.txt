@@ -1,0 +1,82 @@
+  
+95 %-confidence intervals 
+ Method:  Ratio of medians (percentile bootstrap) 
+  
+  
+ BY GROUP  00C_Vivo 
+    estimate  lower upper
+X/A   0.8961 0.6476 1.751
+  
+  
+  
+ BY GROUP  16C_Vivo 
+    estimate lower upper
+X/A     1.63 1.192 1.991
+  
+  
+  
+ BY GROUP  2C_Vivo 
+    estimate  lower upper
+X/A   0.8801 0.5731 1.425
+  
+  
+  
+ BY GROUP  32C_Vivo 
+    estimate  lower upper
+X/A    1.509 0.9094 2.046
+  
+  
+  
+ BY GROUP  4C_Vivo 
+    estimate  lower upper
+X/A   0.8325 0.5065 1.264
+  
+  
+  
+ BY GROUP  8C_Vivo 
+    estimate  lower upper
+X/A    1.103 0.8987 1.736
+  
+  
+  
+ BY GROUP  BL_Vivo 
+    estimate  lower upper
+X/A        1 0.6437 1.302
+  
+  
+  
+ BY GROUP  CM_Vivo 
+    estimate  lower upper
+X/A    1.033 0.6777 1.376
+  
+  
+  
+ BY GROUP  D10_Vivo 
+    estimate  lower upper
+X/A    1.181 0.9018 1.651
+  
+  
+  
+ BY GROUP  D13_Vivo 
+    estimate  lower upper
+X/A    1.194 0.8463 1.665
+  
+  
+  
+ BY GROUP  D16_Vivo 
+    estimate  lower upper
+X/A    1.172 0.7935 1.585
+  
+  
+  
+ BY GROUP  D19_Vivo 
+    estimate  lower upper
+X/A     1.14 0.8435 1.566
+  
+  
+  
+ BY GROUP  D7_Vivo 
+    estimate lower upper
+X/A    1.044 0.839 1.429
+  
+  
