@@ -5,78 +5,78 @@
   
  BY GROUP  00C_Vivo 
     estimate  lower upper
-X/A   0.8961 0.6476 1.751
+X/A   0.8961 0.6722 1.618
   
   
   
  BY GROUP  16C_Vivo 
     estimate lower upper
-X/A     1.63 1.192 1.991
+X/A     1.63 1.154 2.008
   
   
   
  BY GROUP  2C_Vivo 
     estimate  lower upper
-X/A   0.8801 0.5731 1.425
+X/A   0.8801 0.5644 1.395
   
   
   
  BY GROUP  32C_Vivo 
     estimate  lower upper
-X/A    1.509 0.9094 2.046
+X/A    1.509 0.9302 2.176
   
   
   
  BY GROUP  4C_Vivo 
     estimate  lower upper
-X/A   0.8325 0.5065 1.264
+X/A   0.8325 0.5507 1.245
   
   
   
  BY GROUP  8C_Vivo 
     estimate  lower upper
-X/A    1.103 0.8987 1.736
+X/A    1.103 0.8859 1.779
   
   
   
  BY GROUP  BL_Vivo 
-    estimate  lower upper
-X/A        1 0.6437 1.302
+    estimate lower upper
+X/A        1 0.701 1.328
   
   
   
  BY GROUP  CM_Vivo 
     estimate  lower upper
-X/A    1.033 0.6777 1.376
+X/A    1.033 0.6723 1.333
   
   
   
  BY GROUP  D10_Vivo 
     estimate  lower upper
-X/A    1.181 0.9018 1.651
+X/A    1.181 0.8802 1.584
   
   
   
  BY GROUP  D13_Vivo 
     estimate  lower upper
-X/A    1.194 0.8463 1.665
+X/A    1.194 0.8523 1.635
   
   
   
  BY GROUP  D16_Vivo 
     estimate  lower upper
-X/A    1.172 0.7935 1.585
+X/A    1.172 0.7952 1.687
   
   
   
  BY GROUP  D19_Vivo 
     estimate  lower upper
-X/A     1.14 0.8435 1.566
+X/A     1.14 0.8533 1.566
   
   
   
  BY GROUP  D7_Vivo 
-    estimate lower upper
-X/A    1.044 0.839 1.429
+    estimate  lower upper
+X/A    1.044 0.8394  1.44
   
   

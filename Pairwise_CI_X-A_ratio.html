@@ -253,25 +253,7 @@ ggplot(d, aes(x=order,y=median,group = 1)) +
 dev.off()</code></pre>
 <pre><code>## quartz_off_screen 
 ##                 2</code></pre>
-<pre class="r"><code>sink(&quot;Vivo embryos ubiquitous genes table.txt&quot;)
-print(d)</code></pre>
-<pre><code>##    Stage median  lower upper order
-## 1    MII 0.8961 0.6701 1.735   MII
-## 2     2C 0.8801 0.5646 1.397    2C
-## 3     4C 0.8325 0.5009 1.361    4C
-## 4     8C 1.1030 0.9086 1.793    8C
-## 5    16C 1.6300 1.2000 2.013   16C
-## 6    32C 1.5090 0.9337 2.061   32C
-## 7     CM 1.0330 0.6839 1.337    CM
-## 8     BL 1.0000 0.6880 1.317    BL
-## 9     D7 1.0440 0.8385 1.445    D7
-## 10   D10 1.1810 0.9153 1.613   D10
-## 11   D13 1.1940 0.8660 1.659   D13
-## 12   D16 1.1720 0.7974 1.727   D16
-## 13   D19 1.1400 0.8638 1.532   D19</code></pre>
-<pre class="r"><code>sink()
-
-#if want the background with lines
+<pre class="r"><code>#if want the background with lines
 #panel.grid.major.x  = element_line(colour = &quot;light grey&quot;)
 #panel.background = element_rect(fill=&quot;white&quot;)</code></pre>
 </div>

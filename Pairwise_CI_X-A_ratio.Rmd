@@ -86,10 +86,6 @@ ggplot(d, aes(x=order,y=median,group = 1)) +
         axis.title=element_text(size = 14,face = "bold")) #remove the background
 dev.off()
 
-sink("Vivo embryos ubiquitous genes table.txt")
-print(d)
-sink()
-
 #if want the background with lines
 #panel.grid.major.x  = element_line(colour = "light grey")
 #panel.background = element_rect(fill="white")
